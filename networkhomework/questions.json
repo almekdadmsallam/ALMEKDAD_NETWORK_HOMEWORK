@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is the first name of the doctor in network programming?",
+        "answer": "mohannad"
+    },
+    {
+        "question": "Mention the number of the university hall where the networking course is taught",
+        "answer": "44"
+    },
+    {
+        "question": "What is the programming language that we learned at the beginning of the course?",
+        "answer": "python"
+    },
+    {
+        "question": "What is the function of conditions in language?",
+        "answer": "if"
+    },
+    {
+        "question": "Is it possible to delete an item from a list in the language?",
+        "answer": "yes"
+    },
+    {
+        "question": "WWhat is the outcome of the process 4*4+2 ?",
+        "answer": "18"
+    },
+    {
+        "question": "Give the name of the verification function at the beginning of a word",
+        "answer": "startswith()"
+    },
+    {
+        "question": "Indicate according to the Gregorian calendar the last date for submitting the homework",
+        "answer": "27/5/2024"
+    },
+    {
+        "question": "What is the suffix of a Python file named 'almekdad'?",
+        "answer": ".py"
+    },
+    {
+        "question": "What is the square root of 64?",
+        "answer": "8"
+    },
+    {
+        "question": "Would you benefit from the course?",
+        "answer": "yes"
+    },
+    {
+        "question": "What is the type of variable that contains the following value: 100 ",
+        "answer": "integer"
+    },
+    {
+        "question": "What is the type of variable that contains the following value: almekdad ",
+        "answer": "string"
+    },
+    {
+        "question": "What is the type of variable that contains the following value: [1,5,222] ",
+        "answer": "list"
+    },
+    {
+        "question": "What is the type of variable that contains the following value: (1,2) ",
+        "answer": "set"
+    },
+    {
+        "question": "What is the output of the instruction print('almekdad mohannad')",
+        "answer": "almekdadmohannad"
+    },
+    {
+        "question": "what is 1+1 ?",
+        "answer": "2"
+    },
+    {
+        "question": "what is 3%3 ?",
+        "answer": "0"
+    },
+    {
+        "question": "what is 2*2*2 ?",
+        "answer": "8"
+    },
+    {
+        "question": "what is 2/2 ?",
+        "answer": "1"
+    }
+]
